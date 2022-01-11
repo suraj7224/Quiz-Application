@@ -3,7 +3,9 @@ I have created Quiz Application with the use of Python, tkinter Programming lang
 
 In this project I have used different types of modules: 
 1.	Plyer Module: (simple Desktop Notifier application using Python)
-time: This module works with the time object and is installed by default
+
+time: This module works with the time object and is installed by default.
+
 Plyer: Plyer module is used to access the features of the hardware. This module does not come built-in with Python. We need to install it externally. To install this module, type the below command in the terminal.
 
 Run this command: 
